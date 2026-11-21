@@ -1,5 +1,5 @@
 [New version]
-BeBe_Tong=7.0.929
+TenShop_Tong=3.0.1330
 [setup_file]
-setup_filename=Setup_BeBe7_TONG_20261109.exe
+setup_filename=Setup_TenShop_TONG_20261121.exe
 
