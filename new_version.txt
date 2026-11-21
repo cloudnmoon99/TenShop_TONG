@@ -1,0 +1,5 @@
+[New version]
+BeBe_Tong=7.0.929
+[setup_file]
+setup_filename=Setup_BeBe7_TONG_20261109.exe
+
