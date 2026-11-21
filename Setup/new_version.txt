@@ -1,0 +1,5 @@
+[New version]
+TenShop_Tong=3.0.1330
+[setup_file]
+setup_filename=Setup_TenShop_TONG_20261121.exe
+
